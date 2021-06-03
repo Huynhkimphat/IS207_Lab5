@@ -55,8 +55,6 @@
     $idPost = $_GET['id'];
     header("Content-type: text/html; charset=utf-8");
     $servername = "localhost";
-    // $username = "magentoUser";
-    // $password = "Kimphat@2001";
     $username = "root";
     $password = "";
     $dbname = "dealcongnghe";
